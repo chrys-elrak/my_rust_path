@@ -1,3 +1,5 @@
+mod second_degree;
+
 fn main() {
-    println!("Hello, world!");
+    second_degree::second_degree();
 }
